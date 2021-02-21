@@ -9,7 +9,8 @@
 # Supported tags and respective `Dockerfile` links
 
 - [`debian` (*Dockerfile*)](https://github.com/rodolfocugler/sftp/blob/master/Dockerfile) ![Docker Image Size (x86)](https://img.shields.io/docker/image-size/rodolfocugler/sftp/debian?label=debian&logo=debian&style=plastic)
-- [`arm32v7` (*Dockerfile*)](https://github.com/rodolfocugler/sftp/blob/debian-arm32v7/Dockerfile) ![Docker Image Size (arm32v7)](https://img.shields.io/docker/image-size/rodolfocugler/sftp/arm32v7?label=arm32v7&logo=raspberry%20pi&style=plastic)
+- [`arm32v7` (*Dockerfile*)](https://github.com/rodolfocugler/sftp/blob/master/Dockerfile) ![Docker Image Size (arm32v7)](https://img.shields.io/docker/image-size/rodolfocugler/sftp/arm32v7?label=arm32v7&logo=raspberry%20pi&style=plastic)
+- [`arm64v8` (*Dockerfile*)](https://github.com/rodolfocugler/sftp/blob/master/Dockerfile) ![Docker Image Size (arm64v8)](https://img.shields.io/docker/image-size/rodolfocugler/sftp/arm64v8?label=arm64v8&logo=raspberry%20pi&style=plastic)
 
 # Securely share your files
 
